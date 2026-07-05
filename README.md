@@ -34,14 +34,51 @@
 
 ---
 
-### 🧩 LeetCode Metrics
-<p align="center">
-  <img src="https://leetcode-stats-next.vercel.app/?username=anjalishukla1710&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anjalishukla4801&show_icons=true&theme=dark&hide_border=true" alt="Anjali's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalishukla4801&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🧩 LeetCode Profile
+<p align="center">
+  <a href="https://leetcode.com/u/anjalishukla1710/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+</p>
+
+---
+
+### 🎯 Featured Projects
+*(Add your best projects here with descriptions and links)*
+
+---
+
+### 🌱 Currently Learning
+- Advanced Machine Learning architectures
+- System Design & scalability
+- Cloud deployment (AWS/GCP)
+
+---
+
+### 📫 Let's Connect
+- **GitHub:** [anjalishukla4801](https://github.com/anjalishukla4801)
+- **LeetCode:** [anjalishukla1710](https://leetcode.com/u/anjalishukla1710/)
+- **LinkedIn:** *(Add your LinkedIn profile)*
+- **Email:** *(Add your email)*
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalishukla4801&theme=dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+**⭐ Feel free to explore my repositories and connect with me!**
