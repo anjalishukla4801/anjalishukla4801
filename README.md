@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%2FML-Lavender-9F86C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%2FML-9F86C0?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-Pipelines-B8A2D9?style=flat-square" />
   <img src="https://img.shields.io/badge/DSA-Consistency-C7B8EA?style=flat-square" />
 </p>
