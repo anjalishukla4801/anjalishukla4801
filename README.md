@@ -36,30 +36,6 @@
   <img src="https://img.shields.io/badge/DSA-C7B8EA?style=flat-square" />
 </p>
 
----
-
-## ☁ github insights
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anjalishukla4801&show_icons=true&theme=transparent&title_color=B497D6&text_color=CFC3E6&icon_color=A88BEB&border_color=7D6AA6" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalishukla4801&theme=transparent&ring=B497D6&fire=C7B8EA&currStreakLabel=D8C8F0&sideNums=CFC3E6&currStreakNum=E9DFFF&sideLabels=BCA8DE&dates=9F8ABF&border=7D6AA6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalishukla4801&bg_color=0d1117&color=CFC3E6&line=B497D6&point=E6D6F5&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## ☕ leetcode journey
-
-<p align="center">
-  <a href="https://leetcode.com/u/anjalishukla1710/">
-    <img src="https://leetcard.jacoblin.cool/anjalishukla1710?theme=unicorn&font=Karma&ext=heatmap" alt="LeetCode stats + heatmap" />
-  </a>
-</p>
-
----
 
 ## ♡ connect
 
