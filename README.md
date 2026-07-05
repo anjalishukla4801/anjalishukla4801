@@ -36,7 +36,9 @@
 
 ### 🧩 LeetCode Metrics
 <p align="center">
+  <p align="center">
   <img src="https://leetcode-stats-next.vercel.app/?username=anjalishukla1710&theme=dark" alt="LeetCode Stats" />
+</p>
 </p>
 
 ---
