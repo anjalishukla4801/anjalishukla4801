@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anjali Shukla!
+# 👋 Hi, I'm ANJALI SHUKLA!
 
 ### 🚀 About Me
 - 🎓 **Current Role:** 7th Semester Computer Science Engineering student specializing in Data Science.
