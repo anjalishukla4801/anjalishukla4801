@@ -36,12 +36,12 @@
 
 ### 🧩 LeetCode Metrics
 <p align="center">
-  <p align="center">
   <img src="https://leetcode-stats-next.vercel.app/?username=anjalishukla1710&theme=dark" alt="LeetCode Stats" />
-</p>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalishukla4801&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalishukla4801&show_icons=true&theme=dark&hide_border=true" alt="Anjali's GitHub Stats" />
+</p>
